@@ -1,4 +1,5 @@
-# global_radon_flux_map
+# A global radon flux map
+
 This repository includes data and scripts to generate a global radon flux map. 
 The global map was put together using regional fluxes reported recently in the 
 literature. More details can be found in Zhang et al. (2011).  
