@@ -1,4 +1,4 @@
-A global radon flux map
+A global radon flux map based on [Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/)
 ==================================
 
 This repository includes data and scripts to generate a global radon flux map. 
