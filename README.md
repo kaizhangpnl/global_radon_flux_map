@@ -35,7 +35,7 @@ Evaluation
 -------------------- 
 The new global radon emission map represents better regional details and seasonal variation. 
 The simulated radon activity concentration using the new global flux is evaluated against 
-surface radon measurements at `51` locations. Results show that the global model *ECHAM5* 
+surface radon measurements at  [`51` locations](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_data_tab.png). Results show that the global model *ECHAM5* 
 can reasonably reproduce the variations of surface radon concentrations observed at various 
 locations. On the whole, the newly compiled emission map leads to better results compared 
 to the `WCRP1995` protocol and the widely used `SW1998` map. The merged map is not only
