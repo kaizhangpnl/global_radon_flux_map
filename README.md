@@ -10,8 +10,8 @@ literature. More details can be found in
 Script
 --------------------
 
-   - ``script/make_rnemis_run.csh`` : c-shell script to call rnemis.ncl  
-   - ``script/rnemis.ncl`` : NCL script to create the global radon flux data by merging regional and global radon flux maps. 
+   - `script/make_rnemis_run.csh <https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/make_rnemis_run.csh>`_ : c-shell script to call rnemis.ncl  
+   - `script/rnemis.ncl <https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/rnemis.ncl/>``_ : NCL script to create the global radon flux data by merging regional and global radon flux maps. 
      This script will call CDO to remap data to target resolutions. 
    - Description: 
      E0: ``WCRP1995`` emission 
