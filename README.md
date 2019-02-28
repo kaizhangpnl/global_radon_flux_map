@@ -31,6 +31,25 @@ Data
    - [rnemis_r720x360](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_r720x360) : radon flux data on ``0.5°x0.5°`` grid 
 
 
+Evaluation
+-------------------- 
+Based on recent reports in the literature on radon emission,
+an up-to-date global radon emission map is compiled with
+regional details and seasonal variation. The simulated radon
+activity concentration is evaluated against surface radon measurements
+at `51` locations. Results show that the global
+model *ECHAM5* can reasonably reproduce the variations of
+surface radon concentrations observed at various locations.
+On the whole, the newly compiled emission map leads to
+better results compared to the `WCRP1995` protocol and the
+widely used `SW1998` map. The merged map is not only
+helpful for this study, but probably also useful for other researchers
+working on numerical modelling of radon transport
+and the transport and deposition processes of `210Pb`. 
+
+<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" align="center" width="500" ></a> 
+
+
 Reference
 -------------------- 
 
