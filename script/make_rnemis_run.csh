@@ -5,7 +5,10 @@ foreach RES ("360x180" "720x360" "21" "31" "42" "63" "85" "106" "159")
 
      setenv IEMIS $IEMIS 
      setenv resolution "$RES" 
-     
+
+     mkdir -p ../work
+     mkdir -p ../output
+
      ncl rnemis.ncl 
      
      rm ../work/out*.nc 
