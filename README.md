@@ -2,19 +2,20 @@
 
 This repository includes data and scripts to generate a global radon flux map. 
 The global map was put together using regional fluxes reported recently in the 
-literature. More details can be found in `Zhang et al. (2011) <https://www.atmos-chem-phys.net/11/7817/2011/>`_.  
+literature. More details can be found in 
+`Zhang et al. (2011) <https://www.atmos-chem-phys.net/11/7817/2011/>`_.  
 
 
 Script
 --------------------
 
-   script/make_rnemis_run.csh : c-shell script to call rnemis.ncl  
+   - script/make_rnemis_run.csh : c-shell script to call rnemis.ncl  
    
-   script/rnemis.ncl: NCL script to create the global radon flux data by merging regional and global radon flux maps. 
+   - script/rnemis.ncl: NCL script to create the global radon flux data by merging regional and global radon flux maps. 
    
-   This script will call CDO to remap data to target resolutions. 
+     This script will call CDO to remap data to target resolutions. 
    
-   Description: 
+   - Description: 
    
      E0: WCRP1995 emission 
      E1: WCRP1995 magnitude with Schery1998 time information  
@@ -24,17 +25,17 @@ Script
 Data
 -------------------- 
 
-   rnemis_ECHAM : radon flux data prepared for the ECHAM model (T21-T159)
+   - rnemis_ECHAM : radon flux data prepared for the ECHAM model (T21-T159)
 
-   rnemis_r360x180 : radon flux data on 1x1 grid 
+   - rnemis_r360x180 : radon flux data on 1x1 grid 
 
-   rnemis_r720x360 : radon flux data on 0.5x0.5 grid 
+   - rnemis_r720x360 : radon flux data on 0.5x0.5 grid 
 
 
 Reference
 -------------------- 
 
-   Zhang, K., Feichter, J., Kazil, J., Wan, H., Zhuo, W., Griffiths, A. D.,
+ - Zhang, K., Feichter, J., Kazil, J., Wan, H., Zhuo, W., Griffiths, A. D.,
    Sartorius, H., Zahorowski, W., Ramonet, M., Schmidt, M., Yver, C.,
    Neubert, R. E. M., and Brunke, E.-G.:
    Radon activity in the lower troposphere and its impact on ionization rate:
