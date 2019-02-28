@@ -18,15 +18,15 @@ Script
    - [script/rnemis.ncl](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/rnemis.ncl) : NCL script to create the global radon flux data by merging regional and global radon flux maps. 
      This script will call [*CDO*](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Documentation) to remap data to target resolutions. 
    - Description: 
-       - E0: *WCRP1995* emission 
-       - E1: *WCRP1995* magnitude with *Schery1998* time information  
-       - E2: *Schery1998*  Schery et al. (1998) scaled by 1.6 
+       - E0: ``WCRP1995`` emission 
+       - E1: ``WCRP1995`` magnitude with ``Schery1998`` time information  
+       - E2: ``Schery1998``  Schery et al. (1998) scaled by 1.6 
        - E3: merged emission based on Zhang et al. ACP2011 (china, europe, russia, usa, aus, schery1998, schery2004_ocean) 
 
 Data
 -------------------- 
 
-   - [rnemis_ECHAM](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_ECHAM) : radon flux data prepared for the ``ECHAM`` model (``T21``-``T159``)
+   - [rnemis_ECHAM](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_ECHAM) : radon flux data prepared for the *ECHAM* model (``T21``-``T159``)
    - [rnemis_r360x180](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_r360x180) : radon flux data on ``1x1`` grid 
    - [rnemis_r720x360](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_r720x360) : radon flux data on ``0.5x0.5`` grid 
 
@@ -66,5 +66,5 @@ Reference
   
 Acknowlegement 
 -------------------- 
-Original regional flux maps were provided by Dr. `W. Zhuo` (China), Dr. `A. D. Griffiths` (Australia), Dr. `T. Szegvary` and Dr. `F. Conen` (Europe, Russia, and USA). Global radon flux used for other regions were provided by Dr. `S. D. Schery`. 
+Original regional flux maps were provided by Dr. *W. Zhuo* (China), Dr. `A. D. Griffiths` (Australia), Dr. `T. Szegvary` and Dr. `F. Conen` (Europe, Russia, and USA). Global radon flux used for other regions were provided by Dr. `S. D. Schery`. 
 
