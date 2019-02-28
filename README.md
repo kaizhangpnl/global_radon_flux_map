@@ -22,9 +22,9 @@ Script
 Data
 -------------------- 
 
-   - ``rnemis_ECHAM`` : radon flux data prepared for the ``ECHAM`` model (``T21``-``T159``)
-   - ``rnemis_r360x180`` : radon flux data on ``1x1`` grid 
-   - ``rnemis_r720x360`` : radon flux data on ``0.5x0.5`` grid 
+   - [rnemis_ECHAM](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_ECHAM) : radon flux data prepared for the ``ECHAM`` model (``T21``-``T159``)
+   - [rnemis_r360x180](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_r360x180) : radon flux data on ``1x1`` grid 
+   - [rnemis_r720x360](https://github.com/kaizhangpnl/global_radon_flux_map/tree/master/rnemis_r720x360) : radon flux data on ``0.5x0.5`` grid 
 
 
 Reference
