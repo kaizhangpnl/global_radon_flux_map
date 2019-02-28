@@ -8,6 +8,9 @@ literature. More details can be found in
 
 <a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" align="center" width="400" ></a> 
 
+
+<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" align="center" width="600" ></a> 
+
 Script
 --------------------
 
