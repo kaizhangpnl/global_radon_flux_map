@@ -16,7 +16,7 @@ Script
 
    - [script/make_rnemis_run.csh](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/make_rnemis_run.csh) : c-shell script to call rnemis.ncl  
    - [script/rnemis.ncl](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/rnemis.ncl) : NCL script to create the global radon flux data by merging regional and global radon flux maps. 
-     This script will call CDO to remap data to target resolutions. 
+     This script will call `CDO` to remap data to target resolutions. 
    - Description: 
      E0: ``WCRP1995`` emission 
      E1: ``WCRP1995`` magnitude with ``Schery1998`` time information  
@@ -42,29 +42,29 @@ Reference
    Atmos. Chem. Phys., 11, 7817-7838,
    https://doi.org/10.5194/acp-11-7817-2011, 2011.
 
-- Szegvary, T., Leuenberger, M. C., and Conen, F.: 
+- `Szegvary, T.`, Leuenberger, M. C., and Conen, F.: 
   Predicting terrestrial 222Rn flux using gamma dose rate as a proxy, 
   Atmos. Chem. Phys., 7, 2789-2795, 
   https://doi.org/10.5194/acp-7-2789-2007, 2007. 
 
--  Griffiths, A. D., Zahorowski, W., Element, A., and Werczynski, S.: 
+-  `Griffiths, A. D.`, Zahorowski, W., Element, A., and Werczynski, S.: 
    A map of radon flux at the Australian land surface, 
    Atmos. Chem. Phys., 10, 8969-8982, 
    https://doi.org/10.5194/acp-10-8969-2010, 2010. 
 
-- Schery, S. D. and Wasiolek, M.A., 1998. 
+- `Schery, S. D.` and Wasiolek, M.A., 1998. 
   Modeling radon flux from the earth’s surface. Radon and Thoron in the human environment, 
   pp.207-217.
 
--  Schery, S. D., and S. Huang (2004), 
+-  `Schery, S. D.`, and S. Huang (2004), 
    An estimate of the global distribution of radon emissions from the ocean, 
    Geophys. Res. Lett., 31, L19104, doi:10.1029/2004GL021051. 
 
-- Zhuo, W., Guo, Q., Chen, B. and Cheng, G., 2008. 
+- `Zhuo, W.`, Guo, Q., Chen, B. and Cheng, G., 2008. 
   Estimating the amount and distribution of radon flux density from the soil surface in China. 
   Journal of environmental radioactivity, 99(7), pp.1143-1148.
   
 Acknowlegement 
 -------------------- 
-Original regional flux maps were provided by Dr. W. Zhuo (China), Dr. A. D. Griffiths (Australia), Dr. T. Szegvary and Dr. F. Conen (Europe, Russia, and USA). Global radon flux used for other regions were provided by Dr. S. D. Schery. 
+Original regional flux maps were provided by Dr. `W. Zhuo` (China), Dr. `A. D. Griffiths` (Australia), Dr. `T. Szegvary` and Dr. `F. Conen` (Europe, Russia, and USA). Global radon flux used for other regions were provided by Dr. `S. D. Schery`. 
 
