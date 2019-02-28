@@ -18,10 +18,10 @@ Script
    - [script/rnemis.ncl](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/rnemis.ncl) : NCL script to create the global radon flux data by merging regional and global radon flux maps. 
      This script will call [*CDO*](https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Documentation) to remap data to target resolutions. 
    - Description: 
-     E0: *WCRP1995* emission 
-     E1: *WCRP1995* magnitude with ``Schery1998`` time information  
-     E2: ``Schery1998``  Schery et al. (1998) scaled by 1.6 
-     E3: merged emission based on Zhang et al. ACP2011 (china, europe, russia, usa, aus, schery1998, schery2004_ocean) 
+       - E0: *WCRP1995* emission 
+       - E1: *WCRP1995* magnitude with *Schery1998* time information  
+       - E2: *Schery1998*  Schery et al. (1998) scaled by 1.6 
+       - E3: merged emission based on Zhang et al. ACP2011 (china, europe, russia, usa, aus, schery1998, schery2004_ocean) 
 
 Data
 -------------------- 
