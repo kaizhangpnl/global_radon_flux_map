@@ -33,19 +33,14 @@ Data
 
 Evaluation
 -------------------- 
-Based on recent reports in the literature on radon emission,
-an up-to-date global radon emission map is compiled with
-regional details and seasonal variation. The simulated radon
-activity concentration is evaluated against surface radon measurements
-at `51` locations. Results show that the global
-model *ECHAM5* can reasonably reproduce the variations of
-surface radon concentrations observed at various locations.
-On the whole, the newly compiled emission map leads to
-better results compared to the `WCRP1995` protocol and the
-widely used `SW1998` map. The merged map is not only
-helpful for this study, but probably also useful for other researchers
-working on numerical modelling of radon transport
-and the transport and deposition processes of `210Pb`. 
+The new global radon emission map represents better regional details and seasonal variation. 
+The simulated radon activity concentration using the new global flux is evaluated against 
+surface radon measurements at `51` locations. Results show that the global model *ECHAM5* 
+can reasonably reproduce the variations of surface radon concentrations observed at various 
+locations. On the whole, the newly compiled emission map leads to better results compared 
+to the `WCRP1995` protocol and the widely used `SW1998` map. The merged map is not only
+helpful for this study, but probably also useful for other researchers working on numerical 
+modelling of radon transport and the transport and deposition processes of `210Pb`. 
 
 <a href="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" align="center" width="700" ></a> 
 
