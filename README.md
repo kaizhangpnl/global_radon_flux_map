@@ -7,7 +7,7 @@ literature. More details can be found in
 [Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/)
 
 
-![Figure 1.](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png "Global radon flux map merged by Zhang et al. (2011)")
+![Figure 1.](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png | width=100 "Global radon flux map merged by Zhang et al. (2011)")
 
 
 Script
