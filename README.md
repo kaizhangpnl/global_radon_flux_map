@@ -2,10 +2,11 @@
 
 This repository includes data and scripts to generate a global radon flux map. 
 The global map was put together using regional fluxes reported recently in the 
-literature. More details can be found in Zhang et al. (2011).  
+literature. More details can be found in `Zhang et al. (2011) <https://www.atmos-chem-phys.net/11/7817/2011/>`_.  
 
 
-Script (under folder "script") 
+Script
+--------------------
 
    script/make_rnemis_run.csh : c-shell script to call rnemis.ncl  
    
@@ -20,7 +21,8 @@ Script (under folder "script")
      E2: Schery1998  Schery et al. (1998) scaled by 1.6 
      E3: merged emission based on Zhang et al. ACP2011 (china,europe,russia,usa,aus,schery1998,schery2004_ocean) 
 
-Data 
+Data
+-------------------- 
 
    rnemis_ECHAM : radon flux data prepared for the ECHAM model (T21-T159)
 
@@ -29,7 +31,8 @@ Data
    rnemis_r720x360 : radon flux data on 0.5x0.5 grid 
 
 
-Reference: 
+Reference
+-------------------- 
 
    Zhang, K., Feichter, J., Kazil, J., Wan, H., Zhuo, W., Griffiths, A. D.,
    Sartorius, H., Zahorowski, W., Ramonet, M., Schmidt, M., Yver, C.,
