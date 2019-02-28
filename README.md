@@ -23,7 +23,9 @@ Script (under folder "script")
 Data 
 
    rnemis_ECHAM : radon flux data prepared for the ECHAM model (T21-T159)
+
    rnemis_r360x180 : radon flux data on 1x1 grid 
+
    rnemis_r720x360 : radon flux data on 0.5x0.5 grid 
 
 
