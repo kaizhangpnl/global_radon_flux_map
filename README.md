@@ -16,7 +16,7 @@ Script
 
    - [script/make_rnemis_run.csh](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/make_rnemis_run.csh) : c-shell script to call rnemis.ncl  
    - [script/rnemis.ncl](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/script/rnemis.ncl) : NCL script to create the global radon flux data by merging regional and global radon flux maps. 
-     This script will call `CDO` to remap data to target resolutions. 
+     This script will call [*CDO*]{https://code.mpimet.mpg.de/projects/cdo/wiki/Cdo#Documentation} to remap data to target resolutions. 
    - Description: 
      E0: ``WCRP1995`` emission 
      E1: ``WCRP1995`` magnitude with ``Schery1998`` time information  
