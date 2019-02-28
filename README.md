@@ -6,7 +6,7 @@ The global map was put together using regional fluxes reported recently in the
 literature. More details can be found in 
 [Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/)
 
-<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" align="center" height="500" width="250" ></a> 
+<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" align="center" width="400" ></a> 
 
 Script
 --------------------
