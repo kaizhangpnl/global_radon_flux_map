@@ -6,10 +6,10 @@ The global map was put together using regional fluxes reported recently in the
 literature. More details can be found in 
 [Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/)
 
-<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" align="center" width="500" ></a> 
+<a href="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" align="center" width="500" ></a> 
 
 
-<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" align="center" width="500" ></a> 
+<a href="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" align="center" width="500" ></a> 
 
 Script
 --------------------
@@ -47,7 +47,7 @@ helpful for this study, but probably also useful for other researchers
 working on numerical modelling of radon transport
 and the transport and deposition processes of `210Pb`. 
 
-<a href="https://www.atmos-chem-phys.net/11/7817/2011/acp-11-7817-2011.pdf"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" align="center" width="500" ></a> 
+<a href="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png"><img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" align="center" width="700" ></a> 
 
 
 Reference
