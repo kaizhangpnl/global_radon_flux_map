@@ -9,7 +9,7 @@ literature. More details can be found in
 <img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" width="500" >
 
 
-<a href="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png"><img align="center" src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" width="500" ></a> 
+<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" width="500" >
 
 Script
 --------------------
@@ -42,7 +42,7 @@ to the `WCRP1995` protocol and the widely used `SW1998` map. The merged map is n
 helpful for this study, but probably also useful for other researchers working on numerical 
 modelling of radon transport and the transport and deposition processes of `210Pb`. 
 
-<a href="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png"><img align="center" src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" width="700" ></a> 
+<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" width="700" >
 
 
 Reference
