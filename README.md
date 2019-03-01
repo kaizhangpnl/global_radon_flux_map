@@ -6,10 +6,10 @@ The global map was put together using regional fluxes reported recently in the
 literature. More details can be found in 
 [Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/)
 
-<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" width="500" alt="hi" class="inline" />
+<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" width="500" class="inline" />
 
 
-<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" width="500" alt="hi" class="inline"/>
+<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux_table.png" width="500" class="inline"/>
 
 Script
 --------------------
@@ -42,7 +42,7 @@ to the `WCRP1995` protocol and the widely used `SW1998` map. The merged map is n
 helpful for this study, but probably also useful for other researchers working on numerical 
 modelling of radon transport and the transport and deposition processes of `210Pb`. 
 
-<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" width="700" alt="hi" class="inline"/>
+<img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/radon_surface_conc.png" width="700" class="inline"/>
 
 
 Reference
