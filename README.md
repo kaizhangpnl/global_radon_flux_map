@@ -4,9 +4,9 @@ A global radon flux map based on *Zhang et al. (2011)*
 This repository includes data and scripts to generate a global radon flux map. 
 The global map was put together using regional fluxes reported recently in the 
 literature. More details can be found in 
-[Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/ =500x)
+[Zhang et al. (2011)](https://www.atmos-chem-phys.net/11/7817/2011/)
 
-![global radon flux](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png)
+![global radon flux](https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png =500x)
 
 <img src="https://github.com/kaizhangpnl/global_radon_flux_map/blob/master/figures/global_radon_flux.png" width="500" class="inline" />
 
